@@ -58,7 +58,9 @@ details {
 }
 
 #copyPoint {
-    margin-left: 6px;
+  margin-left: 6px; 
+  background-image: radial-gradient(5px circle at center, #fff, #fff, #fff, #fff, var(--form-text) 50%, transparent 50%);
+  color: rgba(255, 255, 255, 0);
 }
 
 .actions {
